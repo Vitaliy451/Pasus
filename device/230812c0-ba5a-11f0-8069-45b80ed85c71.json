@@ -1,11 +1,7 @@
 {
   "entityType" : "DEVICE",
   "entity" : {
-    "additionalInfo" : {
-      "gateway" : false,
-      "overwriteActivityTime" : false,
-      "description" : ""
-    },
+    "additionalInfo" : null,
     "customerId" : {
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
@@ -20,46 +16,33 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "12d197d0-84dd-11f0-9dcf-813811befd2b"
+      "id" : "2ec8fa60-0322-11f0-8f83-43727cd6bc90"
     },
     "externalId" : null,
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "cf215650-f6d9-11f0-88ea-87b075e163fc"
+      "id" : "230812c0-ba5a-11f0-8069-45b80ed85c71"
     },
     "label" : null,
-    "name" : "SN-test",
+    "name" : "Somenew",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "sensor"
+    "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "2Q0vjieCB6CVxKIaPEw6",
+    "credentialsId" : "H8a3lIp3zKLqp1zsglCX",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
-  "relations" : [ {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "d5227760-f6d8-11f0-88ea-87b075e163fc"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "cf215650-f6d9-11f0-88ea-87b075e163fc"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON",
-    "version" : 998866271
-  } ],
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : false,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1769008901026,
+      "lastUpdateTs" : 1762358477911,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -67,26 +50,26 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1769008901014,
-      "longValue" : 1769008901013,
+      "lastUpdateTs" : 1762358477904,
+      "longValue" : 1762358477903,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1769008274355,
-      "longValue" : 1769008274322,
+      "lastUpdateTs" : 1762357858275,
+      "longValue" : 1762357856894,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
-      "key" : "test",
-      "lastUpdateTs" : 1769008215572,
+      "key" : "firmware",
+      "lastUpdateTs" : 1762357852365,
       "longValue" : null,
-      "strValue" : "v1.5"
+      "strValue" : "v1.2"
     } ]
   },
   "calculatedFields" : [ ]

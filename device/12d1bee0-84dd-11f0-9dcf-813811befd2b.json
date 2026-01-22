@@ -1,11 +1,7 @@
 {
   "entityType" : "DEVICE",
   "entity" : {
-    "additionalInfo" : {
-      "gateway" : false,
-      "overwriteActivityTime" : false,
-      "description" : ""
-    },
+    "additionalInfo" : null,
     "customerId" : {
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
@@ -26,16 +22,16 @@
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "cf215650-f6d9-11f0-88ea-87b075e163fc"
+      "id" : "12d1bee0-84dd-11f0-9dcf-813811befd2b"
     },
     "label" : null,
-    "name" : "SN-test",
+    "name" : "Bullet",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "sensor"
   },
   "credentials" : {
-    "credentialsId" : "2Q0vjieCB6CVxKIaPEw6",
+    "credentialsId" : "1FR6cApa3AsNwgt2lyAt",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -43,15 +39,15 @@
     "additionalInfo" : null,
     "from" : {
       "entityType" : "INTEGRATION",
-      "id" : "d5227760-f6d8-11f0-88ea-87b075e163fc"
+      "id" : "02cf6000-84d9-11f0-8537-e5a03e6ead6c"
     },
     "to" : {
       "entityType" : "DEVICE",
-      "id" : "cf215650-f6d9-11f0-88ea-87b075e163fc"
+      "id" : "12d1bee0-84dd-11f0-9dcf-813811befd2b"
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 998866271
+    "version" : 825897003
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
@@ -59,7 +55,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1769008901026,
+      "lastUpdateTs" : 1762423586773,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -67,26 +63,26 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1769008901014,
-      "longValue" : 1769008901013,
+      "lastUpdateTs" : 1762423586693,
+      "longValue" : 1762423586692,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1769008274355,
-      "longValue" : 1769008274322,
+      "lastUpdateTs" : 1762422971861,
+      "longValue" : 1762422971438,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
-      "key" : "test",
-      "lastUpdateTs" : 1769008215572,
+      "key" : "firmware",
+      "lastUpdateTs" : 1762422956062,
       "longValue" : null,
-      "strValue" : "v1.5"
+      "strValue" : "v1.2"
     } ]
   },
   "calculatedFields" : [ ]
