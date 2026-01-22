@@ -22,7 +22,10 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "12d197d0-84dd-11f0-9dcf-813811befd2b"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "cf215650-f6d9-11f0-88ea-87b075e163fc"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
@@ -51,7 +54,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 998866271
+    "version" : 1000524361
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {

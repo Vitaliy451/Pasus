@@ -21,7 +21,10 @@
       }
     },
     "etag" : "dfc8ff400d2e9bbd859c99dee9a63c5e35be985eaef834924386e445353c30b8",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "c938d410-f6df-11f0-88ea-87b075e163fc"
+    },
     "fileName" : "laugh_squint_emoticon_flat_black_white_symmetric_circle_face_outline_6921526.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",

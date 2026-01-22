@@ -1012,11 +1012,11 @@
     "name" : "My Dashboard",
     "resources" : null,
     "assignedCustomers" : null,
-    "customerId" : {
-      "entityType" : "CUSTOMER",
-      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    "customerId" : null,
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "0d88dcb0-309c-11f0-9257-458d053e54a2"
     },
-    "externalId" : null,
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "0d88dcb0-309c-11f0-9257-458d053e54a2"

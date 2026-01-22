@@ -36,7 +36,10 @@
     },
     "edgeTemplate" : false,
     "enabled" : true,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "INTEGRATION",
+      "id" : "d5227760-f6d8-11f0-88ea-87b075e163fc"
+    },
     "id" : {
       "entityType" : "INTEGRATION",
       "id" : "d5227760-f6d8-11f0-88ea-87b075e163fc"
@@ -47,8 +50,29 @@
     "secret" : "8w837ec3btl274pw747u",
     "type" : "UDP"
   },
-  "relations" : [ ],
+  "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "INTEGRATION",
+      "id" : "d5227760-f6d8-11f0-88ea-87b075e163fc"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "cf215650-f6d9-11f0-88ea-87b075e163fc"
+    },
+    "type" : "ManagedByIntegration",
+    "typeGroup" : "COMMON",
+    "version" : 1000524361
+  } ],
   "attributes" : {
-    "SERVER_SCOPE" : [ ]
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"success\":true}",
+      "key" : "integration_status_[remote:8082]",
+      "lastUpdateTs" : 1769079199621,
+      "longValue" : null,
+      "strValue" : null
+    } ]
   }
 }

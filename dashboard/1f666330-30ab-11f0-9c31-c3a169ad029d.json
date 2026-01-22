@@ -436,11 +436,11 @@
     "name" : "hub",
     "resources" : null,
     "assignedCustomers" : null,
-    "customerId" : {
-      "entityType" : "CUSTOMER",
-      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    "customerId" : null,
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "1f666330-30ab-11f0-9c31-c3a169ad029d"
     },
-    "externalId" : null,
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "1f666330-30ab-11f0-9c31-c3a169ad029d"

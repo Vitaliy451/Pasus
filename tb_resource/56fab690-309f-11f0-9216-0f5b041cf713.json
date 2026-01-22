@@ -21,7 +21,10 @@
       }
     },
     "etag" : "c74398efa691d8827024fd0e31f5b34911c5756cbff901188bf18d8d28505775",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "56fab690-309f-11f0-9216-0f5b041cf713"
+    },
     "fileName" : "Vitaliy sys admin icon.png",
     "id" : {
       "entityType" : "TB_RESOURCE",

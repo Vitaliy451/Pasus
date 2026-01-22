@@ -4,7 +4,10 @@
     "additionalInfo" : null,
     "configuration" : null,
     "debugMode" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "2eb683d0-0322-11f0-8f83-43727cd6bc90"
+    },
     "firstRuleNodeId" : {
       "entityType" : "RULE_NODE",
       "id" : "2eb87fa7-0322-11f0-8f83-43727cd6bc90"
@@ -367,7 +370,7 @@
         "layoutY" : 564
       },
       "configuration" : {
-        "integrationId" : "681c28c0-8d63-11f0-bde0-070227f1c896"
+        "integrationId" : "2eae9490-0322-11f0-8f83-43727cd6bc90"
       },
       "configurationVersion" : 0,
       "createdTime" : 0,
@@ -453,7 +456,7 @@
     },
     "type" : "Uses",
     "typeGroup" : "COMMON",
-    "version" : 998883241
+    "version" : 1000524357
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]

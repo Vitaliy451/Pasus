@@ -39,7 +39,10 @@
       "id" : "13814000-1dd2-11b2-8080-808080808080"
     },
     "enabled" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "SCHEDULER_EVENT",
+      "id" : "f9d3d840-d1c8-11f0-b238-bd8a9470eef2"
+    },
     "id" : {
       "entityType" : "SCHEDULER_EVENT",
       "id" : "f9d3d840-d1c8-11f0-b238-bd8a9470eef2"

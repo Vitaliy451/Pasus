@@ -31,7 +31,10 @@
     },
     "edgeTemplate" : false,
     "enabled" : true,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "INTEGRATION",
+      "id" : "1fdcf110-84d1-11f0-9631-172f0d7c47ff"
+    },
     "id" : {
       "entityType" : "INTEGRATION",
       "id" : "1fdcf110-84d1-11f0-9631-172f0d7c47ff"

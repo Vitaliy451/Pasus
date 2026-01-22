@@ -21,7 +21,10 @@
       }
     },
     "etag" : "164068844567067e9f7bf0f320e4e109510608ce7935f20fe35730b43506fb62",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "dc77bd20-f6df-11f0-9f12-6b160059eb2f"
+    },
     "fileName" : "cosmonaut.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",

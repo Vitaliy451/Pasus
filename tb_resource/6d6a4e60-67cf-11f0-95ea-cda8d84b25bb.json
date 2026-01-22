@@ -21,7 +21,10 @@
       }
     },
     "etag" : "7d78238a688972df44589e26afa900d117fe76566fa59192d83ec83770bff975",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "6d6a4e60-67cf-11f0-95ea-cda8d84b25bb"
+    },
     "fileName" : "wind-turbine-hp.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",

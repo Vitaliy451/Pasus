@@ -21,7 +21,10 @@
       }
     },
     "etag" : "596f66f5d5cb6826ab3e0359cde2620ab8d3ef127dc9e330c6050c9454575916",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "e412e9b0-f6df-11f0-862c-e5320376240c"
+    },
     "fileName" : "5117395.png",
     "id" : {
       "entityType" : "TB_RESOURCE",

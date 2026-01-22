@@ -21,7 +21,10 @@
       }
     },
     "etag" : "e74a6c0702e401c86c8def5185717133034c7a483d2646857e55dbe7c6384828",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "d8859b60-f6df-11f0-862c-e5320376240c"
+    },
     "fileName" : "happy_walterq.png",
     "id" : {
       "entityType" : "TB_RESOURCE",

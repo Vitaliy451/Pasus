@@ -21,7 +21,10 @@
       }
     },
     "etag" : "772fb4e3044f4ea03276992c0817782386015d3048a4dfd35bdbc632cc7a906d",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "e6a48170-3489-11f0-9c31-c3a169ad029d"
+    },
     "fileName" : "gamepad-controller.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",

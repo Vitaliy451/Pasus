@@ -8,7 +8,10 @@
         "type" : "AFFECTED_USER"
       }
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_TARGET",
+      "id" : "2eccf200-0322-11f0-8f83-43727cd6bc90"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_TARGET",
       "id" : "2eccf200-0322-11f0-8f83-43727cd6bc90"

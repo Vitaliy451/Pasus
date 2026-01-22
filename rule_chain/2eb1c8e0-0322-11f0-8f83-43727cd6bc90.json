@@ -4,7 +4,10 @@
     "additionalInfo" : null,
     "configuration" : null,
     "debugMode" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "2eb1c8e0-0322-11f0-8f83-43727cd6bc90"
+    },
     "firstRuleNodeId" : {
       "entityType" : "RULE_NODE",
       "id" : "2eb3c4b0-0322-11f0-8f83-43727cd6bc90"
@@ -62,8 +65,8 @@
           "type" : "pdf",
           "timezone" : "Europe/Kiev",
           "useCurrentUserCredentials" : true,
-          "userId" : "7c82bf30-4d61-11e8-ad73-455e6191039d",
-          "dashboardId" : "62097e80-6fa0-11e8-9b36-a959bde06125"
+          "userId" : "2eae9490-0322-11f0-8f83-43727cd6bc90",
+          "dashboardId" : "2eae9490-0322-11f0-8f83-43727cd6bc90"
         }
       },
       "configurationVersion" : 0,
@@ -216,7 +219,7 @@
     },
     "type" : "Uses",
     "typeGroup" : "COMMON",
-    "version" : 998883241
+    "version" : 1000524357
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]

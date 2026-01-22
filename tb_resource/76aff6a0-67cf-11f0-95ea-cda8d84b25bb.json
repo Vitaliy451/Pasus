@@ -21,7 +21,10 @@
       }
     },
     "etag" : "7378fcc96c5ffb93cef409dce82c87a9c45c1163e18b6bd89149f8c33f4e7934",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "76aff6a0-67cf-11f0-95ea-cda8d84b25bb"
+    },
     "fileName" : "thank_you.png",
     "id" : {
       "entityType" : "TB_RESOURCE",

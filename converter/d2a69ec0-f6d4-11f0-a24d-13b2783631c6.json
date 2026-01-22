@@ -28,7 +28,10 @@
       "failuresEnabled" : true
     },
     "edgeTemplate" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "CONVERTER",
+      "id" : "d2a69ec0-f6d4-11f0-a24d-13b2783631c6"
+    },
     "id" : {
       "entityType" : "CONVERTER",
       "id" : "d2a69ec0-f6d4-11f0-a24d-13b2783631c6"

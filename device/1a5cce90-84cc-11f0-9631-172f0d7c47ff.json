@@ -18,7 +18,10 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "2ec8fa60-0322-11f0-8f83-43727cd6bc90"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "1a5cce90-84cc-11f0-9631-172f0d7c47ff"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",

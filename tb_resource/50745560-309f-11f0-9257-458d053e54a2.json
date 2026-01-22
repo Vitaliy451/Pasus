@@ -21,7 +21,10 @@
       }
     },
     "etag" : "825a78ade7086bfe4326db23187a703e3b3c9e694e1e08f586c7a8e757f05f02",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "50745560-309f-11f0-9257-458d053e54a2"
+    },
     "fileName" : "alien-svgrepo-com.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",
