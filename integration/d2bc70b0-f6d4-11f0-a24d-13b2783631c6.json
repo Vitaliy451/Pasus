@@ -58,33 +58,7 @@
     "secret" : "ttthmin8pqr74amp17uq",
     "type" : "TCP"
   },
-  "relations" : [ {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "d2bc70b0-f6d4-11f0-a24d-13b2783631c6"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "9e4081e0-f6d5-11f0-862c-e5320376240c"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON",
-    "version" : 998813110
-  }, {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "d2bc70b0-f6d4-11f0-a24d-13b2783631c6"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "7d4de810-f6d5-11f0-862c-e5320376240c"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON",
-    "version" : 998811742
-  } ],
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   }

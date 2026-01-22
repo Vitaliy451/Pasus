@@ -47,20 +47,7 @@
     "secret" : "8w837ec3btl274pw747u",
     "type" : "UDP"
   },
-  "relations" : [ {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "d5227760-f6d8-11f0-88ea-87b075e163fc"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "cf215650-f6d9-11f0-88ea-87b075e163fc"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON",
-    "version" : 998866271
-  } ],
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   }
