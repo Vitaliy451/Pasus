@@ -20,7 +20,7 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "2ec8fa60-0322-11f0-8f83-43727cd6bc90"
+      "id" : "aac545f0-84ce-11f0-9dcf-813811befd2b"
     },
     "externalId" : null,
     "firmwareId" : null,
@@ -32,7 +32,7 @@
     "name" : "repDevice",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "default"
+    "type" : "thermostat"
   },
   "credentials" : {
     "credentialsId" : "w0OwPAljnMyJYn3UmF9i",
@@ -40,7 +40,15 @@
     "credentialsValue" : null
   },
   "attributes" : {
-    "SERVER_SCOPE" : [ ],
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1769078786947,
+      "longValue" : null,
+      "strValue" : null
+    } ],
     "SHARED_SCOPE" : [ ]
   },
   "calculatedFields" : [ ]
